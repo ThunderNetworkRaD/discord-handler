@@ -1,14 +1,14 @@
 {
-  "name": "mr.handy",
-  "version": "2022.12.29",
-  "description": "Il caro e vecchio mr.handy",
+  "name": "discord-handler",
+  "version": "2022.12.31",
+  "description": "A discordjs commandhandler",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThunderNetworkRaD/MR.Handy.git"
+    "url": "git+https://github.com/ThunderNetworkRaD/discord-handler.git"
   },
   "keywords": [
     "MR.Handy",
@@ -18,9 +18,9 @@
   "author": "Thunder Network RaD | KillerBossOriginal",
   "license": "SEE LICENSE IN license.txt",
   "bugs": {
-    "url": "https://github.com/ThunderNetworkRaD/MR.Handy/issues"
+    "url": "https://github.com/ThunderNetworkRaD/discord-handler/issues"
   },
-  "homepage": "https://github.com/ThunderNetworkRaD/MR.Handy#readme",
+  "homepage": "https://github.com/ThunderNetworkRaD/discord-handler#readme",
   "dependencies": {
     "@thundernetworkrad/files": "^2022.12.2-9.1",
     "@thundernetworkrad/map.db": "^2022.12.29",
