@@ -1,0 +1,32 @@
+{
+  "name": "mr.handy",
+  "version": "2022.12.29",
+  "description": "Il caro e vecchio mr.handy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunderNetworkRaD/MR.Handy.git"
+  },
+  "keywords": [
+    "MR.Handy",
+    "Discord",
+    "Bot"
+  ],
+  "author": "Thunder Network RaD | KillerBossOriginal",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/ThunderNetworkRaD/MR.Handy/issues"
+  },
+  "homepage": "https://github.com/ThunderNetworkRaD/MR.Handy#readme",
+  "dependencies": {
+    "@thundernetworkrad/files": "^2022.12.2-9.1",
+    "@thundernetworkrad/map.db": "^2022.12.29",
+    "@thundernetworkrad/std": "^2022.12.29",
+    "discord-hybrid-sharding": "^2.0.4",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
